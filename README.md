@@ -1,4 +1,4 @@
-- 👋 Hi, I’m G.Vageesha Datta, currently a Final year Undergraduate CSE Student at SRM University AP, Andhra Pradesh
+- 👋 Hi I’m G.Vageesha Datta, currently a Final year Undergraduate CSE Student at SRM University AP, Andhra Pradesh
 - 👀 I’m interested in the field of Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on open source software 
 - 📫 You can reach me @ Gmail:vageeshaganapaneni@gmail.com, LinkedIn:[VageeshaDatta](https://www.linkedin.com/in/vageesha-datta-ganapaneni-094ab7184?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaxFcCxH9Rm%2Bd886%2BuFGwqQ%3D%3D)
